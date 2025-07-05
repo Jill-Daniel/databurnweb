@@ -30,13 +30,13 @@ function About() {
         <div className="about__ceo-content">
           <h2 className="about__ceo-heading"> Message From  The CEO</h2>
           <p className="about__ceo-text">
-            At Databurn Media, we are dedicated to preserving your most cherished memories with passion and precision.
+            At Databurn Media, we are dedicated to preserve your most cherished memories with passion and precision.
             From weddings to corporate events, we use cutting-edge technology to bring your stories to life — all while keeping our services affordable and accessible.
             <br /><br />
             Looking for professional livestreaming services? We’ve got you covered with expert setup and seamless execution.
           </p>
 
-          <h4>Pascal Ochieng (C.E.O), Databurn Media</h4>
+          <h4>Pascal Ochieng (C.E.O),  Databurn Media</h4>
         </div>
       </section>
 
@@ -45,7 +45,7 @@ function About() {
         <div className="portfolio__grid">
           {[ 
             { img: babyShoot, alt: 'Baby Photoshoot', caption: 'Baby Photoshoot' },
-            { img: ruralShoot, alt: 'Rural Photoshoot', caption: 'Rural Photoshoot' },
+            { img: ruralShoot, alt: 'Rurashio Livestreams', caption: 'Rural Photoshoot' },
             { img: weddingShoot, alt: 'Wedding Photoshoot', caption: 'Wedding Photoshoot' },
             { img: shoot7, alt: 'Studio Photoshoot', caption: 'Studio Photoshoot' },
             { img: funeralShoot, alt: 'Funeral Photoshoot', caption: 'Funeral Photoshoot' },

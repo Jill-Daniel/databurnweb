@@ -191,9 +191,8 @@ function Navbar() {
         <ul className={`nav-links ${mobileMenuOpen ? "active" : ""}`}>
           <li><Link to="/Home" onClick={closeMenus}>Home</Link></li>
           <li><Link to="/About" onClick={closeMenus}>About</Link></li>
-          <li><Link to="/services" onClick={closeMenus}>More</Link></li>
+          <li><Link to="/services" onClick={closeMenus}>Services</Link></li>
           <li><Link to="/contact" onClick={closeMenus}>Contact</Link></li>
-           <li><Link to="/services" onClick={closeMenus}>Services</Link></li>
 
         </ul>
       </div>

@@ -28,7 +28,7 @@ function Services() {
         {[
           {
             img: wedding,
-            title: 'Wedding Photography',
+            title: 'Wedding Photoshoots/Wedding Livestreaming',
             desc: 'Capture your big day with beautiful, cinematic images and video. We offer packages to suit every budget.'
           },
           {
