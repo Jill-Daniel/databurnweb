@@ -1,17 +1,14 @@
 {
-  "companyName": "Databurn studio",
+  "companyName": "Databurn Studio",
   "description": "We craft visual identities and immersive web experiences.",
-  "About":"https//about.databurn.com",
-  "address": "Oposite Kamagambo policestation,  Rongo, MIgori",
-  "phone": "  📞 WhatsApp Us,+254704497051", 
+  "address": "Opposite Kamagambo Police Station, Rongo, Migori",
+  "phone": "+254704497051",
   "email": "databurn@gmail.com",
   "social": {
     "instagram": "https://instagram.com/databurndigital",
-      "facebook": "https://www.facebook.com/profile.php?id=100086583875901",
-   "tiktok": "https://www.tiktok.com/search?q=databurnmedia&t=1751718344597",
-   "Url":"https://www.MIgori.Map.com",
-    "twitter":"https://x.com/DataburnC?s=09",
-    "youtube":"https://www.youtube.com/@DatBurnMedia"
-    
+    "facebook": "https://www.facebook.com/profile.php?id=100086583875901",
+    "tiktok": "https://www.tiktok.com/@databurnmedia",
+    "twitter": "https://x.com/DataburnC?s=09",
+    "youtube": "https://www.youtube.com/@DatBurnMedia"
   }
 }
