@@ -26,14 +26,14 @@ function Contact() {
   };
 
   const sendWhatsApp = () => {
-    const whatsappNumber = "254704497051"; // your number without '+' or spaces
+    const whatsappNumber = "254704497051"; 
     const url = `https://wa.me/${whatsappNumber}?text=${getEncodedMessage()}`;
     window.open(url, "_blank");
     resetForm();
   };
 
   const sendSMS = () => {
-    const smsNumber = "+254704497051"; // with plus
+    const smsNumber = "+254704497051"; 
     const url = `sms:${smsNumber}?body=${getEncodedMessage()}`;
     window.open(url);
     resetForm();
