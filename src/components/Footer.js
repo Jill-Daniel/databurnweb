@@ -31,8 +31,7 @@ function Footer() {
         <div className="footer-col">
           <h4>Quick Links</h4>
           <ul>
-            <li><a href="/Home">Home</a></li>
-          
+            <li><a href="/home">Home</a></li>
             <li><a href="/services">Services</a></li>
             <li><a href="/contact">Contact</a></li>
           </ul>
@@ -47,17 +46,16 @@ function Footer() {
         </div>
 
         {/* Social Media */}
-<div className="footer-col">
-  <h4>Follow Us</h4>
-  <div className="social-icons">
-    <a href={data.social?.facebook} target="_blank" rel="noopener noreferrer" aria-label="Facebook"><i className="fab fa-facebook-f"></i></a>
-    <a href={data.social?.instagram} target="_blank" rel="noopener noreferrer" aria-label="Instagram"><i className="fab fa-instagram"></i></a>
-    <a href={data.social?.tiktok} target="_blank" rel="noopener noreferrer" aria-label="TikTok"><i className="fab fa-tiktok"></i></a>
-    <a href={data.social?.twitter} target="_blank" rel="noopener noreferrer" aria-label="Twitter"><i className="fab fa-twitter"></i></a>
-    <a href={data.social?.youtube} target="_blank" rel="noopener noreferrer" aria-label="YouTube"><i className="fab fa-youtube"></i></a>
-  </div>
-</div>
-
+        <div className="footer-col">
+          <h4>Follow Us</h4>
+          <div className="social-icons">
+            <a href={data.social?.facebook} target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-f"></i></a>
+            <a href={data.social?.instagram} target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
+            <a href={data.social?.tiktok} target="_blank" rel="noopener noreferrer"><i className="fab fa-tiktok"></i></a>
+            <a href={data.social?.twitter} target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
+            <a href={data.social?.youtube} target="_blank" rel="noopener noreferrer"><i className="fab fa-youtube"></i></a>
+          </div>
+        </div>
       </div>
 
       <div className="footer-bottom">
